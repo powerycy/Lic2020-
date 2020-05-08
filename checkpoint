@@ -1,0 +1,2 @@
+model_checkpoint_path: "roberta_zh_large_model.ckpt"
+all_model_checkpoint_paths: "roberta_zh_large_model.ckpt"

@@ -4,5 +4,6 @@
 代码中复用了许多苏神的代码，因此首先对苏神表示感谢！
 运行ie_torch3.py
 详情请见知乎
+https://zhuanlan.zhihu.com/p/138858558
 比赛链接https://aistudio.baidu.com/aistudio/competition/detail/31?isFromCcf=true
 https://zhuanlan.zhihu.com/p/138858558
